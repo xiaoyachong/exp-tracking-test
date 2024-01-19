@@ -1,0 +1,4 @@
+outs:
+- md5: f5fab2618149bcba8aeb6db3954eba91
+  size: 3401
+  path: SVC_model.sav
